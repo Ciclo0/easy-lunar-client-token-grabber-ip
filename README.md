@@ -1,2 +1,1 @@
-# easy-lunar-client-token-grabber-ip
-Lunar client accounts grabber.
+just change the webhook.
